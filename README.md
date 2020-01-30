@@ -5,3 +5,4 @@ to classify amazon fine food reviews as positive or negative depending on custom
 2. It is helpful in understanding the customers need in a broader way
 and therefore helps in improving customers satisfaction.
 3. LSTM algorithm is used in this project.
+4. Also detail analysis and explanation of model and its performance is given in IPython Notebook.
