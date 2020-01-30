@@ -1,3 +1,0 @@
-Hi, This is branch b1 !
-
-Hi, This is new branch b1' !
